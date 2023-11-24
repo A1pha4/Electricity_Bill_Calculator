@@ -47,8 +47,16 @@ If you'd like to contribute, please fork the repository and then create a pull r
 This project is licensed under the MIT License. See [LICENSE](https://github.com/A1pha4/Electricity_Bill_Calculator/blob/main/LICENSE) file.
 
 ### Authors and Acknowledgments
-Owen Murunga, Joseph Ochieng, Amos Nzuki, Deche Wilson, Tamima Shee, Joseph Matiko, James Kiala, Abdulkadir Said.
-Microsoft Docs - C#
+- *Owen Murunga*
+- *Joseph Ochieng*
+- *Winfred Mawia*
+- *Amos Nzuki*
+- *Deche Wilson*
+- *Tamima Shee*
+- *Joseph Matiko*
+- *James Kiala*
+- *Abdulkadir Said*
+- Microsoft Docs - C#
 
 ### Contact and Support 
 - *abdulkadirsaid2103@gmail.com*
@@ -58,3 +66,5 @@ Microsoft Docs - C#
 - *matish9409@gmail.com*
 - *winfredmawia94@gmail.com*
 - *jameskiala54@gmail.com*
+- *sheetamima@gmail.com*
+- *jeyzwilinsco@gmail.com*
